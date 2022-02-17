@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Renju Paul Jose.</h1>
-<h3 align="center">A UX aware Full stack Web Developer</h3>
+<h3 align="center">An UX aware Full stack Web Developer</h3>
 <!-- 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=renjujv&label=Profile%20views&color=0e75b6&style=flat" alt="renjujv" />
@@ -34,11 +34,8 @@ Here are some ideas to get you started:
 <hr>
 
 - 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at [https://github.com/renjujv](https://github.com/renjujv)
-
-- 📝 I regularly write articles on [https://renjujose.live](https://renjujose.live)
-
+- 👨‍💻 All of my projects are available at my [Github profile](https://github.com/renjujv)
+- 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://renjujose.live)
 - 📫 How to reach me **renjujv@gmail.com**
 
 <hr>
