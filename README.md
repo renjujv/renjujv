@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Renju Paul Jose.</h1>
+<h1 align="center">Hi folks👋, I'm Renju Paul Jose.</h1>
 <h3 align="center">An UX aware Full stack Web Developer</h3>
 <!-- 
 <p align="left">
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <hr>
 
 - 🌱 I’m currently learning **Django**
+- Tech stack I am currently working on - 
+Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> | Spring Boot <img style="padding:.5em 0 0 0;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/>
 - 👨‍💻 All of my projects are available at my [Github profile](https://github.com/renjujv)
 - 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://renjujose.live)
 - 📫 How to reach me **renjujv@gmail.com**
@@ -42,9 +44,9 @@ Here are some ideas to get you started:
 
 ## Stats📈 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjujv&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjujv&theme=react-dark&hide_border=true)
 
- <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjujv&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="renjujv" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="renjujv" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&theme=highcontrast&hide_border=true" alt="renjujv" /> </p> 
+ <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjujv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renjujv" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&theme=dracula&locale=en" alt="renjujv" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&theme=highcontrast" alt="renjujv" /> </p> 
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&locale=en" alt="renjujv" style="width:50%" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&" alt="renjujv" style="width:50%" /></p> -->
