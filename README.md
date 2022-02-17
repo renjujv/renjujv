@@ -42,11 +42,20 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 
 <hr>
 
-## Stats📈 
+## Stats📈
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjujv&theme=react-dark&hide_border=true)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjujv&theme=react-dark&hide_border=true)
+<p align="center"> 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjujv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renjujv" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&theme=dracula&locale=en" alt="renjujv" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&theme=highcontrast" alt="renjujv" /> 
+</p>
 
- <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjujv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renjujv" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&theme=dracula&locale=en" alt="renjujv" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&theme=highcontrast" alt="renjujv" /> </p> 
+## Work Stats📈
+<p align="center">
+<!--   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjupauljosev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renjupauljosev" /> -->
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=renjupauljosev&theme=highcontrast" alt="renjupauljosev" /> 
+</p>
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&locale=en" alt="renjujv" style="width:50%" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&" alt="renjujv" style="width:50%" /></p> -->
