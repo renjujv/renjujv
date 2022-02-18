@@ -19,6 +19,8 @@ jobs:
           url: 'https://note.sarisia.cc/index.xml'
           file: 'README.md'
       - uses: sarisia/actions-commit@master
+        with:
+          github_token: ${{ secrets.PAT }}
     # new action plugin end
     # old action plugin start
 #       - name: Get RSS Feed
@@ -32,8 +34,8 @@ jobs:
 #             git config --global user.email 'renjujv@gmail.com'
 #             git add .
 #             git diff --quiet --cached || git commit -m "Update README"
+#       - name: Push changes
+#         uses: ad-m/github-push-action@master
+#         with:
+#           github_token: ${{ secrets.PAT }}
     # old action plugin end
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PAT }}
