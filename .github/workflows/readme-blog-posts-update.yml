@@ -1,9 +1,9 @@
 name: Blog posts on ReadMe
+
+# Runs every day at 2am UTC
 on:
-  push
-#   schedule:
-    # Runs every day at 9am UTC
-#     - cron: '0 4 * * *'
+  schedule:
+    - cron: '0 2 * * *'
 
 jobs:
   build:
