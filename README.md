@@ -13,17 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi folks👋, I'm Renju Paul Jose.</h1>
-<h3 align="center">An UX aware Full stack Web Developer</h3>
-<!-- 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=renjujv&label=Profile%20views&color=0e75b6&style=flat" alt="renjujv" />
-  <a href="https://twitter.com/josnothosay" target="blank">
-    <img src="https://img.shields.io/twitter/follow/josnothosay?logo=twitter&style=for-the-badge" alt="josnothosay" />
-  </a>
-</p> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/renjujv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="renjujv" height="30" width="40" /></a>
 <a href="https://twitter.com/josnothosay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josnothosay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/renjujv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renjujv" height="30" width="40" /></a>
@@ -32,6 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+<h3 align="left">A UX aware Full stack Web Developer</h3>
 
 - 🌱 I’m currently learning **Django**
 - Tech stack I am currently working on - 
@@ -39,6 +31,15 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 - 👨‍💻 All of my projects are available at my [Github profile](https://github.com/renjujv)
 - 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://renjujose.live)
 - 📫 How to reach me **renjujv@gmail.com**
+
+<hr>
+
+### Latest Blog Posts
+<!-- feed start -->
+- May 28 - [New Beginnings](https://www.renjujose.live/new-beginnings/)
+- May 06 - [My Second Post!](https://www.renjujose.live/my-second-post/)
+- May 01 - [Hello World Updated 2](https://www.renjujose.live/hello-world/)
+<!-- feed end -->
 
 <hr>
 
@@ -59,19 +60,6 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&locale=en" alt="renjujv" style="width:50%" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&" alt="renjujv" style="width:50%" /></p> -->
-<hr>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<hr>
-
-### Latest Posts
-<!-- feed start -->
-- May 28 - [New Beginnings](https://www.renjujose.live/new-beginnings/)
-- May 06 - [My Second Post!](https://www.renjujose.live/my-second-post/)
-- May 01 - [Hello World Updated 2](https://www.renjujose.live/hello-world/)
-<!-- feed end -->
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
