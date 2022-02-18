@@ -59,8 +59,8 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&locale=en" alt="renjujv" style="width:50%" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&" alt="renjujv" style="width:50%" /></p> -->
-<!-- <hr> -->
-<!-- ### Blogs posts -->
+<hr>
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <hr>
