@@ -16,7 +16,7 @@ jobs:
     # new action plugin start
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://note.sarisia.cc/index.xml'
+          url: 'https://renjujv.github.io/rss.xml'
           file: 'README.md'
       - uses: sarisia/actions-commit@master
         with:
