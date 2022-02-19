@@ -35,6 +35,8 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 <hr>
 
 ### Latest Blog Posts
+[![Blog posts on ReadMe](https://github.com/renjujv/renjujv/actions/workflows/readme-blog-posts-update.yml/badge.svg?branch=main)](https://github.com/renjujv/renjujv/actions/workflows/readme-blog-posts-update.yml)
+
 <!-- feed start -->
 - May 28 - [New Beginnings](https://www.renjujose.live/new-beginnings/)
 - May 06 - [My Second Post!](https://www.renjujose.live/my-second-post/)
