@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="left">A UX aware Full stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 - Tech stack I am currently working on - 
 Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> | Spring Boot <img style="padding:.5em 0 0 0;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/>
 - 👨‍💻 All of my projects are available at my [Github profile](https://github.com/renjujv)
@@ -49,8 +49,8 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjujv&theme=react-dark&hide_border=true)
 <p align="center"> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjujv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renjujv" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&theme=dracula&locale=en" alt="renjujv" /> 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjujv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renjujv" style="pointer-events: none;  cursor: default;" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&theme=dracula&locale=en" alt="renjujv" style="pointer-events: none;  cursor: default;"/> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&theme=highcontrast" alt="renjujv" /> 
 </p>
 
