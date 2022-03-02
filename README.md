@@ -40,7 +40,6 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 <!-- feed start -->
 - Jun 01 - [How to fix: 'lynx: command not found'](https://www.renjujose.live/how-to-fix-lynx-command-not-found/)
 - Apr 30 - [Setting Locale in Mac](https://www.renjujose.live/setting-a-locale-in-mac/)
-- May 01 - [Hello World](https://www.renjujose.live/hello-world/)
 <!-- feed end -->
 
 <hr>
