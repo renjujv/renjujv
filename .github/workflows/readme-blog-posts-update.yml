@@ -3,6 +3,8 @@ name: Blog posts on ReadMe
 on:
   schedule:
     - cron: '0 2 * * *'
+    
+  workflow_dispatch:
 
 jobs:
   build:
