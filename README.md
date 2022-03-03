@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **React**
 - Tech stack I am currently working on - 
 Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> | Spring Boot <img style="padding:.5em 0 0 0;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/>
-- 👨‍💻 All of my projects are available at my [Github profile](https://github.com/renjujv)
-- 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://renjujose.live)
+- 👨‍💻 All of my opensource projects are available in my Repositories
+- 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://renjujose.live) or [Github Blog page](https://renjujv.github.io)
 - 📫 How to reach me **renjujv@gmail.com**
 
 <hr>
