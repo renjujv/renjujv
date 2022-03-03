@@ -38,8 +38,8 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 [![Blog posts on ReadMe](https://github.com/renjujv/renjujv/actions/workflows/readme-blog-posts-update.yml/badge.svg?branch=main)](https://github.com/renjujv/renjujv/actions/workflows/readme-blog-posts-update.yml)
 
 <!-- feed start -->
-- Jun 01 - [How to fix: 'lynx: command not found'](https://www.renjujose.live/how-to-fix-lynx-command-not-found/)
-- Apr 30 - [Setting Locale in Mac](https://www.renjujose.live/setting-a-locale-in-mac/)
+- Jun 01 - [How to fix: 'lynx: command not found'](https://renjujv.github.io/how-to-fix-lynx-command-not-found/)
+- Apr 30 - [Setting Locale in Mac](https://renjujv.github.io/setting-a-locale-in-mac/)
 <!-- feed end -->
 
 <hr>
