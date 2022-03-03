@@ -15,5 +15,5 @@ jobs:
           url: 'https://renjujv.github.io/rss.xml'
           file: 'README.md'
       - uses: sarisia/actions-commit@master
-        with:
-          github_token: ${{ secrets.PAT }}
+#         with:
+#           github_token: ${{ secrets.PAT }}
