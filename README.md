@@ -26,6 +26,7 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 [![Blog posts on ReadMe](https://github.com/renjujv/renjujv/actions/workflows/readme-blog-posts-update.yml/badge.svg?branch=main)](https://github.com/renjujv/renjujv/actions/workflows/readme-blog-posts-update.yml)
 
 <!-- feed start -->
+- Apr 22 - [Changing the Jenkins port on MacOS](https://renjujose.live/change-brew-jenkins-port-macos-m1/)
 - Jun 01 - [How to fix: 'lynx: command not found'](https://renjujose.live/how-to-fix-lynx-command-not-found/)
 - Apr 30 - [Setting Locale in Mac](https://renjujose.live/setting-a-locale-in-mac/)
 <!-- feed end -->
