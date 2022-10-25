@@ -11,7 +11,7 @@
 
 <hr>
 
-### A UX-aware Full stack Web Developer
+### A UX-focussed Full stack SDET
 
 - 🌱 I’m currently learning **React**
 - Tech stack I am currently working on - 
