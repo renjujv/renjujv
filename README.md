@@ -17,7 +17,7 @@
 - Tech stack I am currently working on - 
 Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> | Spring Boot <img style="padding:.5em 0 0 0;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/>
 - 👨‍💻 All of my opensource projects are available in my Repositories
-- 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://renjujose.live) or [Github Blog page](https://renjujv.github.io)
+- 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://blog.renjujose.in) or [Github Blog page](https://renjujv.github.io)
 - 📫 How to reach me **renjujv@gmail.com**
 
 <hr>
@@ -26,9 +26,9 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 [![Blog posts on ReadMe](https://github.com/renjujv/renjujv/actions/workflows/readme-blog-posts-update.yml/badge.svg?branch=main)](https://github.com/renjujv/renjujv/actions/workflows/readme-blog-posts-update.yml)
 
 <!-- feed start -->
-- Apr 22 - [Changing the Jenkins port on MacOS](https://renjujose.live/change-brew-jenkins-port-macos-m1/)
-- Jun 01 - [How to fix: 'lynx: command not found'](https://renjujose.live/how-to-fix-lynx-command-not-found/)
-- Apr 30 - [Setting Locale in Mac](https://renjujose.live/setting-a-locale-in-mac/)
+- Apr 22 - [Changing the Jenkins port on MacOS](https://blog.renjujose.in/change-brew-jenkins-port-macos-m1/)
+- Jun 01 - [How to fix: 'lynx: command not found'](https://blog.renjujose.in/how-to-fix-lynx-command-not-found/)
+- Apr 30 - [Setting Locale in Mac](https://blog.renjujose.in/setting-a-locale-in-mac/)
 <!-- feed end -->
 
 <hr>
