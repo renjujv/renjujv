@@ -15,10 +15,10 @@
 
 - 🌱 I’m currently learning **React**
 - Tech stack I am currently working on - 
-Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> | Spring Boot <img style="padding:.5em 0 0 0;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/>
+React | Spring Boot | AWS | Kafka | ELK
 - 👨‍💻 All of my opensource projects are available in my Repositories
 - 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://blog.renjujose.in) or [Github Blog page](https://renjujv.github.io)
-- 📫 How to reach me **renjujv@gmail.com**
+- 📫 Mail me @ **renjujv@gmail.com**
 
 <hr>
 
@@ -35,10 +35,10 @@ Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" al
 
 ## Stats📈
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjujv&theme=react-dark&hide_border=true)
+<!-- ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=renjujv&theme=react-dark&hide_border=true) -->
 <p align="center"> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjujv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renjujv" style="pointer-events: none;  cursor: default;" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&theme=dracula&locale=en" alt="renjujv" style="pointer-events: none;  cursor: default;"/> 
+<!--   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renjujv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="renjujv" style="pointer-events: none;  cursor: default;" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=renjujv&show_icons=true&theme=dracula&locale=en" alt="renjujv" style="pointer-events: none;  cursor: default;"/>  -->
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=renjujv&theme=highcontrast" alt="renjujv" /> 
 </p>
 <hr>
