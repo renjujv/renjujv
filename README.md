@@ -13,7 +13,6 @@
 
 ### A UX-focussed Full stack SDET
 
-- 🌱 I’m currently learning **React**
 - Tech stack I am currently working on - 
 React | Spring Boot | AWS | Kafka | Github Actions | ELK
 - 👨‍💻 All of my opensource projects are available in my Repositories
