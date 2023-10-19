@@ -16,7 +16,7 @@
 - Tech stack I am currently working on - 
 React | Spring Boot | AWS | Kafka | Github Actions | ELK
 - 👨‍💻 All of my opensource projects are available in my Repositories
-- 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://blog.renjujose.in) or [Github Blog page](https://renjujv.github.io)
+- 📝 I don't write articles regularly. But when I do, its on my [Personal Blog](https://blog.renjujose.in)
 - 📫 Mail me @ **renjujv at gmail.com**
 
 <hr>
