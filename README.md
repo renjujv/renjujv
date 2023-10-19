@@ -6,7 +6,7 @@
   <a href="https://twitter.com/josnothosay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josnothosay" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/renjujv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renjujv" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/5132408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5132408" height="30" width="40" /></a>
-  <a href="https://medium.com/@renjujv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@renjujv" height="30" width="40" /></a>
+  <a href="https://medium.com/@renjujose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@renjujv" height="30" width="40" /></a>
 </p>
 
 <hr>
